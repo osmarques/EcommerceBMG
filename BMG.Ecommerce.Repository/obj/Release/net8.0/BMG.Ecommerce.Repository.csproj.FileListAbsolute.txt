@@ -1,0 +1,15 @@
+D:\Processoseletivo\BigEcommerce\BMG.Ecommerce.Repository\bin\Release\net8.0\BMG.Ecommerce.Repository.deps.json
+D:\Processoseletivo\BigEcommerce\BMG.Ecommerce.Repository\bin\Release\net8.0\BMG.Ecommerce.Repository.dll
+D:\Processoseletivo\BigEcommerce\BMG.Ecommerce.Repository\bin\Release\net8.0\BMG.Ecommerce.Repository.pdb
+D:\Processoseletivo\BigEcommerce\BMG.Ecommerce.Repository\bin\Release\net8.0\BMG.ECommerce.Domain.dll
+D:\Processoseletivo\BigEcommerce\BMG.Ecommerce.Repository\bin\Release\net8.0\BMG.ECommerce.Domain.pdb
+D:\Processoseletivo\BigEcommerce\BMG.Ecommerce.Repository\obj\Release\net8.0\BMG.Ecommerce.Repository.csproj.AssemblyReference.cache
+D:\Processoseletivo\BigEcommerce\BMG.Ecommerce.Repository\obj\Release\net8.0\BMG.Ecommerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Processoseletivo\BigEcommerce\BMG.Ecommerce.Repository\obj\Release\net8.0\BMG.Ecommerce.Repository.AssemblyInfoInputs.cache
+D:\Processoseletivo\BigEcommerce\BMG.Ecommerce.Repository\obj\Release\net8.0\BMG.Ecommerce.Repository.AssemblyInfo.cs
+D:\Processoseletivo\BigEcommerce\BMG.Ecommerce.Repository\obj\Release\net8.0\BMG.Ecommerce.Repository.csproj.CoreCompileInputs.cache
+D:\Processoseletivo\BigEcommerce\BMG.Ecommerce.Repository\obj\Release\net8.0\BMG.Ecom.F23ED3C4.Up2Date
+D:\Processoseletivo\BigEcommerce\BMG.Ecommerce.Repository\obj\Release\net8.0\BMG.Ecommerce.Repository.dll
+D:\Processoseletivo\BigEcommerce\BMG.Ecommerce.Repository\obj\Release\net8.0\refint\BMG.Ecommerce.Repository.dll
+D:\Processoseletivo\BigEcommerce\BMG.Ecommerce.Repository\obj\Release\net8.0\BMG.Ecommerce.Repository.pdb
+D:\Processoseletivo\BigEcommerce\BMG.Ecommerce.Repository\obj\Release\net8.0\ref\BMG.Ecommerce.Repository.dll

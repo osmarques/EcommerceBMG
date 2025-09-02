@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\BMG.ECommerce.Domain\BMG.ECommerce.Domain.csproj" />
+		<ProjectReference Include="..\BMG.Ecommerce.Repository\BMG.Ecommerce.Repository.csproj" />
+	</ItemGroup>
+</Project>

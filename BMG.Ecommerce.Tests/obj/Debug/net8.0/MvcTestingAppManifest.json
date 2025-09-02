@@ -1,0 +1,5 @@
+{
+  "BMG.ECommerce.Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Processoseletivo\\BigEcommerce\\BMG.ECommerce.Application",
+  "BMG.ECommerce.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Processoseletivo\\BigEcommerce\\BMG.ECommerce.Domain",
+  "BMG.Ecommerce.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Processoseletivo\\BigEcommerce\\BMG.Ecommerce.Repository"
+}

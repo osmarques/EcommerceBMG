@@ -1,0 +1,52 @@
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.csproj.AssemblyReference.cache
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.AssemblyInfoInputs.cache
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.AssemblyInfo.cs
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.csproj.CoreCompileInputs.cache
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.ECommerce.Business.deps.json
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.ECommerce.Business.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.ECommerce.Business.pdb
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.ECommerce.Domain.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.Ecommerce.Repository.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.ECommerce.Domain.pdb
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.Ecommerce.Repository.pdb
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECom.7A00A6EA.Up2Date
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\refint\BMG.ECommerce.Business.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.pdb
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\ref\BMG.ECommerce.Business.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.ECommerce.Business.deps.json
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.ECommerce.Business.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.ECommerce.Business.pdb
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.ECommerce.Domain.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.Ecommerce.Repository.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.ECommerce.Domain.pdb
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.Ecommerce.Repository.pdb
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.csproj.AssemblyReference.cache
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.AssemblyInfoInputs.cache
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.AssemblyInfo.cs
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.csproj.CoreCompileInputs.cache
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECom.7A00A6EA.Up2Date
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\refint\BMG.ECommerce.Business.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.pdb
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Application\obj\Debug\net8.0\ref\BMG.ECommerce.Business.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.ECommerce.Business.deps.json
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.ECommerce.Business.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.ECommerce.Business.pdb
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.ECommerce.Domain.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.Ecommerce.Repository.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.ECommerce.Domain.pdb
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\bin\Debug\net8.0\BMG.Ecommerce.Repository.pdb
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.csproj.AssemblyReference.cache
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.AssemblyInfoInputs.cache
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.AssemblyInfo.cs
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.csproj.CoreCompileInputs.cache
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.sourcelink.json
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECom.7A00A6EA.Up2Date
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\obj\Debug\net8.0\refint\BMG.ECommerce.Business.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\obj\Debug\net8.0\BMG.ECommerce.Business.pdb
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.Application\obj\Debug\net8.0\ref\BMG.ECommerce.Business.dll

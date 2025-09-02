@@ -1,0 +1,11 @@
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Domain\bin\Release\net8.0\BMG.ECommerce.Domain.deps.json
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Domain\bin\Release\net8.0\BMG.ECommerce.Domain.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Domain\bin\Release\net8.0\BMG.ECommerce.Domain.pdb
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Domain\obj\Release\net8.0\BMG.ECommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Domain\obj\Release\net8.0\BMG.ECommerce.Domain.AssemblyInfoInputs.cache
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Domain\obj\Release\net8.0\BMG.ECommerce.Domain.AssemblyInfo.cs
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Domain\obj\Release\net8.0\BMG.ECommerce.Domain.csproj.CoreCompileInputs.cache
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Domain\obj\Release\net8.0\BMG.ECommerce.Domain.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Domain\obj\Release\net8.0\refint\BMG.ECommerce.Domain.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Domain\obj\Release\net8.0\BMG.ECommerce.Domain.pdb
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.Domain\obj\Release\net8.0\ref\BMG.ECommerce.Domain.dll

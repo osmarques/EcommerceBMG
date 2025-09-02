@@ -1,0 +1,6 @@
+@BMG.ECommerce.API_HostAddress = http://localhost:5089
+
+GET {{BMG.ECommerce.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
