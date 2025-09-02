@@ -1,0 +1,238 @@
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.csproj.AssemblyReference.cache
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.AssemblyInfoInputs.cache
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.AssemblyInfo.cs
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.csproj.CoreCompileInputs.cache
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\appsettings.json
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.API.staticwebassets.endpoints.json
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.API.exe
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.API.deps.json
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.API.runtimeconfig.json
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.API.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.API.pdb
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Business.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Domain.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.Ecommerce.Repository.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Business.pdb
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Domain.pdb
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.Ecommerce.Repository.pdb
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\scopedcss\bundle\BMG.ECommerce.API.styles.css
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.BMG.ECommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.BMG.ECommerce.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.build.BMG.ECommerce.API.props
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BMG.ECommerce.API.props
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BMG.ECommerce.API.props
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECom.F0E36CDD.Up2Date
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\refint\BMG.ECommerce.API.dll
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.pdb
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.genruntimeconfig.cache
+D:\Processo seletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\ref\BMG.ECommerce.API.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\appsettings.json
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.API.staticwebassets.endpoints.json
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.API.exe
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.API.deps.json
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.API.runtimeconfig.json
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.API.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.API.pdb
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Business.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Domain.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.Ecommerce.Repository.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Business.pdb
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Domain.pdb
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\bin\Debug\net8.0\BMG.Ecommerce.Repository.pdb
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.csproj.AssemblyReference.cache
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.AssemblyInfoInputs.cache
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.AssemblyInfo.cs
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.csproj.CoreCompileInputs.cache
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\scopedcss\bundle\BMG.ECommerce.API.styles.css
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.BMG.ECommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.BMG.ECommerce.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.build.BMG.ECommerce.API.props
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BMG.ECommerce.API.props
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BMG.ECommerce.API.props
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\refint\BMG.ECommerce.API.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.pdb
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.API.genruntimeconfig.cache
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\ref\BMG.ECommerce.API.dll
+D:\Processoseletivo\BigEcommerce\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECom.802ADD98.Up2Date
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\appsettings.Development.json
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\appsettings.json
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Api.staticwebassets.endpoints.json
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Api.exe
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Api.deps.json
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Api.runtimeconfig.json
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Api.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Api.pdb
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Business.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Domain.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\BMG.Ecommerce.Repository.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Business.pdb
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\BMG.ECommerce.Domain.pdb
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\bin\Debug\net8.0\BMG.Ecommerce.Repository.pdb
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.Api.csproj.AssemblyReference.cache
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.Api.AssemblyInfoInputs.cache
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.Api.AssemblyInfo.cs
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.Api.csproj.CoreCompileInputs.cache
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.Api.sourcelink.json
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\scopedcss\bundle\BMG.ECommerce.Api.styles.css
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.BMG.ECommerce.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.BMG.ECommerce.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.build.BMG.ECommerce.Api.props
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BMG.ECommerce.Api.props
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BMG.ECommerce.Api.props
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECom.802ADD98.Up2Date
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.Api.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\refint\BMG.ECommerce.Api.dll
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.Api.pdb
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\BMG.ECommerce.Api.genruntimeconfig.cache
+D:\projetos\BMG\EcommerceBMG\BMG.ECommerce.API\obj\Debug\net8.0\ref\BMG.ECommerce.Api.dll

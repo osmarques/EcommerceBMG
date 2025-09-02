@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MV7sVD/7reuqoYf5miOixbHHJXFV5J224Mcc19w0xWI=",
+  "Source": "BMG.ECommerce.Api",
+  "BasePath": "_content/BMG.ECommerce.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
